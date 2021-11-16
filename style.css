@@ -31,7 +31,7 @@ section::before{
 }
 section.active::before{
     background: #21283a;
-    box-shadow: 0 0 0 1200px #1ede6d;
+    box-shadow: 0 0 0 1500px #1ede6d;
 }
 
 header{
