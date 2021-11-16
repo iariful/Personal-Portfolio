@@ -208,7 +208,7 @@ header .toggle.active{
     justify-content: center;
     align-items: flex-start;
     flex-direction: column;
-    padding-left: 100px;
+    padding-left: 150px;
     transition: 0.5s;
     z-index: 2;
     visibility: hidden;
